@@ -9,7 +9,9 @@ This web application allows users to create and delete campgrounds as well as cr
 This project is designed to have a similar feel to yelp's website. 
 ### Run Locally 
 //$ git clone https://github.com/David72howard/FullStackWebDev.git
+
 //$ npm install
+
 //$ node app.js
 
 Have fun exploring the web app!
